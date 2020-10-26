@@ -1,5 +1,5 @@
 <script>
-  import Video from "../components/Video.svelte";
+  import Video from "../../components/Video.svelte";
 </script>
 
 <svelte:head>
